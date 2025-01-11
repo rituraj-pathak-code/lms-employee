@@ -126,7 +126,7 @@ const ProfileSide = () => {
               sx={{ width: 25, height: 25 }}
             />
             <div className="text-sm">
-              <h4 className="font-semibold">John Doe</h4>
+              <h4 className="font-semibold">Bentley Luna</h4>
               <p className="text-gray-500 text-[12px]">Sales</p>
             </div>
           </div>
@@ -142,7 +142,7 @@ const ProfileSide = () => {
               sx={{ width: 25, height: 25 }}
             />
             <div className="text-sm">
-              <h4 className="font-semibold">John Doe</h4>
+              <h4 className="font-semibold">Emory French</h4>
               <p className="text-gray-500 text-[12px]">Sales</p>
             </div>
           </div>
@@ -158,7 +158,7 @@ const ProfileSide = () => {
               sx={{ width: 25, height: 25 }}
             />
             <div className="text-sm">
-              <h4 className="font-semibold">John Doe</h4>
+              <h4 className="font-semibold">Kenna Kelly</h4>
               <p className="text-gray-500 text-[12px]">Sales</p>
             </div>
           </div>
@@ -174,7 +174,7 @@ const ProfileSide = () => {
               sx={{ width: 25, height: 25 }}
             />
             <div className="text-sm">
-              <h4 className="font-semibold">John Doe</h4>
+              <h4 className="font-semibold">Ariah Allison</h4>
               <p className="text-gray-500 text-[12px]">Sales</p>
             </div>
           </div>
@@ -190,7 +190,7 @@ const ProfileSide = () => {
               sx={{ width: 25, height: 25 }}
             />
             <div className="text-sm">
-              <h4 className="font-semibold">John Doe</h4>
+              <h4 className="font-semibold">Shepard Price</h4>
               <p className="text-gray-500 text-[12px]">Sales</p>
             </div>
           </div>
